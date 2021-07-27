@@ -11,4 +11,4 @@ Results from Team 1 obtained as part of the Practical Course on Machine Learning
 | Janik Schnellbach     | janik.schnellbach@tum.de     |
 
 
-## 🔗 Ressources
+## 🔗 Resources

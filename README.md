@@ -15,7 +15,7 @@ Welcome to our UCC Repository. Here, we present our results that we could obtain
 
 ## 💻 Setup
 
-To get started, it is required to install the `requirements.txt`.
+To get started, it is necessary to install the `requirements.txt`.
 As our used dataset as well as our created model are relatively large, we did not include them in the repo.
 Instead, we'd like to ask you to download them from our [Drive](https://drive.google.com/drive/folders/1Pi9XV9RcRePrITCkfHs8njhgbE0YbsIy?usp=sharing)
 Simply put both folders (`data` and `model`) into the root folder.
@@ -53,4 +53,4 @@ This folder comprises the most successful part of our work. We built a binary cl
 Next to our classifier, we also spent a lot of effort on other ideas for potential ML models. Even though these were not quite as successful, we still want to include them here.
 
 ## 🎨 Additional material
-On top of our code, we also created an interactive dashboard as well as a GUI for classifying messages. Both can be found in the corresponding folders.
+On top of our code, we also created an interactive dashboard as well as a GUI for classifying messages. Both can be found in the corresponding folders. In order to run the dashboard, one needs a running [Tableau](https://www.tableau.com/de-de/products/desktop) application. TUM student can get a free license for it.

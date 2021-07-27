@@ -21,6 +21,7 @@ Instead, we'd like to ask you to download them from our [Drive](https://drive.go
 Simply put both folders (`data` and `model`) into the root folder.
 The overall structure should look like this:
 
+```bash
 .
 ├── requirements.txt
 ├── data
@@ -37,7 +38,7 @@ The overall structure should look like this:
 │   └── clf.bin
 │
 ├── scripts ...
-...
+```
 
 ## 📖 Short summary of scripts
 Overall, there are three different scripts folders with notebooks addressing different aspects of our work. We will provide a short summary here; more details can be found in the corresponding scripts.

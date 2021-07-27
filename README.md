@@ -1,5 +1,7 @@
 # UCC
-Results from Team 1 obtained as part of the Practical Course on Machine Learning for Information Systems
+Welcome to our UCC Repository. Here, we present our results that we could obtain during the practical course on Machine Learning for Information Systems.
+
+
 
 ## 👥 Group Members
 
@@ -11,4 +13,43 @@ Results from Team 1 obtained as part of the Practical Course on Machine Learning
 | Janik Schnellbach     | janik.schnellbach@tum.de     |
 
 
-## 🔗 Resources
+## 💻 Setup
+
+To get started, it is required to install the `requirements.txt`.
+As our used dataset as well as our created model are relatively large, we did not include them in the repo.
+Instead, we'd like to ask you to download them from our [Drive](https://drive.google.com/drive/folders/1Pi9XV9RcRePrITCkfHs8njhgbE0YbsIy?usp=sharing)
+Simply put both folders (`data` and `model`) into the root folder.
+The overall structure should look like this:
+
+.
+├── requirements.txt
+├── data
+│   ├── tickets.csv
+│   ├── FAQ_questions.txt
+│   ├── status_log.csv
+│   ├── tickets_postprp.csv
+│   ├── tickets_postprp.pkl
+│   ├── tickets.csv
+│   └── tickets
+│        └── ...
+│ 
+├── model
+│   └── clf.bin
+│
+├── scripts ...
+...
+
+## 📖 Short summary of scripts
+Overall, there are three different scripts folders with notebooks addressing different aspects of our work. We will provide a short summary here; more details can be found in the corresponding scripts.
+
+### scripts_data
+Here, we first extract, clean, and prepare the initially provided dataset. In addition, we also show some visualization
+
+### scripts_classification
+This folder comprises the most successful part of our work. We built a binary classifier that detects whether a message belongs to a first or second level support.
+
+### scripts_other
+Next to our classifier, we also spent a lot of effort on other ideas for potential ML models. Even though these were not quite as successful, we still want to include them here.
+
+## 🎨 Additional material
+On top of our code, we also created an interactive dashboard as well as a GUI for classifying messages. Both can be found in the corresponding folders.

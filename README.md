@@ -44,7 +44,7 @@ The overall structure should look like this:
 ├── scripts ...
 ```
 
-## 📖 Short summary of scripts
+## 📖 Short Summary of Scripts
 Overall, there are three different scripts folders with notebooks addressing different aspects of our work. We will provide a short summary here; more details can be found in the corresponding scripts.
 
 ### scripts_data
@@ -56,5 +56,5 @@ This folder comprises the most successful part of our work. We built a binary cl
 ### scripts_other
 Next to our classifier, we also spent a lot of effort on other ideas for potential ML models. Even though these were not quite as successful, we still want to include them here.
 
-## 🎨 Additional material
+## 🎨 Additional Material
 On top of our code, we also created an interactive dashboard as well as a GUI for classifying messages. Both can be found in the corresponding folders. In order to run the dashboard, one needs a running [Tableau Desktop](https://www.tableau.com/de-de/products/desktop) application. TUM students can get a free license for it.

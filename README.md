@@ -1,5 +1,10 @@
 # UCC
-Welcome to our UCC Repository. Here, we present our results that we could obtain during the practical course on Machine Learning for Information Systems.
+
+Welcome to our UCC repository!
+
+## 💪 Motivation
+
+We, a group of TUM students, addressed the issue of optimizing a SAP Support Ticket System in the context of a practical course in Machine Learning for Information Systems. The main goal was to increase the processing efficiency of an incoming ticket. This was attempted through conducting a full ML pipeline on a dataset containing information of about 12000 tickets. We tried multiple ML approaches such as various types of regression, random-forest classifiers, linear SVC, auto-encoded clustering and the classification of NLP embeddings. Out of which the classification based on NLP embeddings delivered promising accuracy 81.6% for the support level classification of German and English tickets, while the rest could not live up to our hopes. We relied heavily on Natural Language Processing Transformers like BERT since most of the information on a ticket is condensed in text format. We also took it upon us to discover new insights and were able to aggregate and visualize our results in the form of a Tableau dashboard.
 
 
 

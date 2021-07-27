@@ -57,4 +57,4 @@ This folder comprises the most successful part of our work. We built a binary cl
 Next to our classifier, we also spent a lot of effort on other ideas for potential ML models. Even though these were not quite as successful, we still want to include them here.
 
 ## 🎨 Additional material
-On top of our code, we also created an interactive dashboard as well as a GUI for classifying messages. Both can be found in the corresponding folders. In order to run the dashboard, one needs a running [Tableau](https://www.tableau.com/de-de/products/desktop) application. TUM student can get a free license for it.
+On top of our code, we also created an interactive dashboard as well as a GUI for classifying messages. Both can be found in the corresponding folders. In order to run the dashboard, one needs a running [Tableau Desktop](https://www.tableau.com/de-de/products/desktop) application. TUM students can get a free license for it.
